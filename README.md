@@ -82,7 +82,7 @@ you would like to receive these updates, then you can type this command in the
 main directory for this assignment:
 
 ```
-git remote add download git@github.com:Allegheny-Computer-Science-203-S2019/cs203-S2019-lab5-starter.git
+git remote add download git@github.com:Allegheny-Computer-Science-203-S2019/cs203-S2019-lab8-starter.git
 ```
 
 You should only need to type this command once; typing the command additional
